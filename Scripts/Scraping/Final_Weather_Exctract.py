@@ -114,7 +114,7 @@ def transform_to_row(pandas_dataframe):
     
 
 #load crop yield data
-data=pd.read_csv('Crop_Yield_Data.csv', sep=',')
+data=pd.read_csv('../../Data/Crop_Yield_Data_challenge_2.csv', sep=',')
 
 #to change date format of column 'Date of Harvest'
 to_date = lambda x: datetime.strptime(x, '%d-%m-%Y').date()
@@ -126,7 +126,7 @@ features=['tempmax', 'tempmin', 'temp', 'dew', 'humidity', 'precip',
 #If file exists, contiue
 
 try:
-    final_weather_data = pd.read_csv('Weather Data.csv')
+    final_weather_data = pd.read_csv('../../Data/Weather_Data_New.csv')
     print('File Found, appending...')
 
 #Else create new Dataframe
@@ -200,5 +200,5 @@ for d_key in list(fetched_data.keys()):
     row += transform_to_row(filtered_df)
     final_weather_data.loc[len(final_weather_data)]= row
     
-final_weather_data.to_csv('Weather Data.csv', index=False)
-final_weather_data.to_excel('Weather Data SHOW.xlsx', index=False)
+final_weather_data.to_csv('../../Data/Weather_Data_New.csv', index=False)
+final_weather_data.to_excel('../../Data/Weather_Data_New.xlsx', index=False)
