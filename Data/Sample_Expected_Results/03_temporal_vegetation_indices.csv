@@ -1,0 +1,16 @@
+Plot_ID,District,Acquisition_Date,Growth_Stage,NDVI,NDWI,RVI,VH_Mean,VV_Mean,Vegetation_Health,Moisture_Status,Yield_Correlation_Check
+PLOT_001,Chau_Phu,2025-11-15,Tillering,0.35,0.12,2.85,0.133,0.026,Good,Adequate,Consistent
+PLOT_001,Chau_Phu,2025-12-01,Vegetative,0.52,0.18,3.02,0.145,0.028,Excellent,Adequate,Consistent
+PLOT_001,Chau_Phu,2025-12-15,Reproductive,0.61,0.22,3.15,0.152,0.030,Excellent,Optimal,Consistent
+PLOT_002,Chau_Phu,2025-11-15,Tillering,0.32,0.10,2.74,0.179,0.051,Good,Adequate,Consistent
+PLOT_002,Chau_Phu,2025-12-01,Vegetative,0.48,0.15,2.89,0.185,0.053,Good,Adequate,Consistent
+PLOT_002,Chau_Phu,2025-12-15,Reproductive,0.58,0.20,3.05,0.190,0.055,Excellent,Optimal,Consistent
+PLOT_003,Chau_Phu,2025-11-15,Tillering,0.25,0.08,2.45,0.117,0.030,Moderate,Low,Flag - Review
+PLOT_003,Chau_Phu,2025-12-01,Vegetative,0.38,0.11,2.62,0.125,0.032,Moderate,Adequate,Consistent
+PLOT_003,Chau_Phu,2025-12-15,Reproductive,0.45,0.14,2.78,0.130,0.034,Good,Adequate,Consistent
+PLOT_007,Thoai_Son,2025-11-15,Tillering,0.22,0.06,2.35,0.098,0.024,Poor,Low,Flag - Stress detected
+PLOT_007,Thoai_Son,2025-12-01,Vegetative,0.35,0.09,2.55,0.105,0.026,Moderate,Low,Flag - Review
+PLOT_007,Thoai_Son,2025-12-15,Reproductive,0.42,0.12,2.70,0.112,0.028,Moderate,Adequate,Improving
+PLOT_010,Chau_Phu,2025-11-15,Tillering,0.38,0.14,2.95,0.167,0.035,Good,Adequate,Consistent
+PLOT_010,Chau_Phu,2025-12-01,Vegetative,0.55,0.20,3.12,0.175,0.038,Excellent,Optimal,Consistent
+PLOT_010,Chau_Phu,2025-12-15,Reproductive,0.65,0.25,3.25,0.182,0.040,Excellent,Optimal,Consistent

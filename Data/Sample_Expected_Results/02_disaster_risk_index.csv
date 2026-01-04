@@ -1,0 +1,16 @@
+Plot_ID,District,Latitude,Longitude,Flood_Frequency_Score,Drought_Risk_Score,Overall_Risk_Index,Risk_Category,Historical_Flood_Events,Avg_Waterlog_Duration_Days,Last_Flood_Season,Recommended_Action
+PLOT_001,Chau_Phu,10.510542,105.248554,2,1,1.5,Low,1,3,SA_2023,Monitor - Standard cultivation
+PLOT_002,Chau_Phu,10.50915,105.265098,3,2,2.5,Medium,2,5,WS_2024,Early warning system recommended
+PLOT_003,Chau_Phu,10.467721,105.192464,5,1,3.0,High,4,12,SA_2024,Flood-resistant variety recommended
+PLOT_004,Chau_Thanh,10.446006,105.338972,1,3,2.0,Low,0,0,None,Drought monitoring needed
+PLOT_005,Chau_Thanh,10.442271,105.339057,2,2,2.0,Low,1,2,WS_2023,Monitor - Standard cultivation
+PLOT_006,Chau_Thanh,10.381544,105.174719,4,1,2.5,Medium,3,8,SA_2024,Drainage improvement suggested
+PLOT_007,Thoai_Son,10.262288,105.409359,6,1,3.5,High,5,15,SA_2024,Critical - Relocate or flood barrier
+PLOT_008,Thoai_Son,10.282741,105.414218,5,2,3.5,High,4,10,WS_2024,Flood insurance recommended
+PLOT_009,Thoai_Son,10.34297,105.382435,3,4,3.5,High,2,4,SA_2023,Drought-resistant variety needed
+PLOT_010,Chau_Phu,10.636733,105.155635,1,1,1.0,Low,0,0,None,Optimal conditions
+PLOT_011,Chau_Phu,10.649258,105.142121,2,1,1.5,Low,1,2,WS_2022,Monitor - Standard cultivation
+PLOT_012,Chau_Thanh,10.438048,105.153225,4,2,3.0,High,3,9,SA_2024,Early harvest planning needed
+PLOT_013,Thoai_Son,10.321392,105.177554,3,3,3.0,Medium,2,6,WS_2024,Dual risk monitoring
+PLOT_014,Chau_Phu,10.590564,105.128439,2,2,2.0,Low,1,3,SA_2023,Standard precautions
+PLOT_015,Chau_Thanh,10.359519,105.360913,5,1,3.0,High,4,11,SA_2024,Flood mitigation priority
